@@ -4,7 +4,6 @@ Zorched GH60 Layout
 ## Quantum MK Firmware
 For the full Quantum feature list, see the parent readme.md.
 
-* Mac layout of alt/cmd
 * WASD and VIM (hjkl) arrow keys on second layer
 * Standard ANSI layout with Pok3r styled function layers
 * ESC key led enables when on function layer
@@ -21,7 +20,7 @@ For the full Quantum feature list, see the parent readme.md.
     ├─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┤
     │LSHFT│▒▒▒▒▒│  Z  │  X  │  C  │  V  │  B  │  N  │  M  │  ,  │  .  │  /  │▒▒▒▒▒│RSHFT│▒▒▒▒▒│
     ├─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┼─────┤
-    │LCTRL│L_GUI│L_ALT│█████│█████│█████│ SPC │█████│█████│█████│R_ALT│ FN0 │ APP │RCTRL│█████│
+    │LCTRL│L_ALT│L_GUI│█████│█████│█████│ SPC │█████│█████│█████│R_ALT│ FN0 │ APP │RCTRL│█████│
     └─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┘
 
 #### 1.1 WASD layer
